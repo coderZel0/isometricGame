@@ -1,0 +1,3 @@
+TILE = 100
+WIDTH = TILE * 12
+HEIGHT = TILE * 7
