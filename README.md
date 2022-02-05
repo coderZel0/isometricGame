@@ -1,4 +1,4 @@
-# isometricGame
+# IsometricGame
 **Trying to make an isometric style League of legends like game**
 ***using pygame and python***
 
