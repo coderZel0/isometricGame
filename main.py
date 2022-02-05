@@ -89,7 +89,7 @@ def updateSpriteGroups():
     for tile in tile_group.sprites():
         tile.update(world_offset_direction,world_offset_speed)
     for t in tower_group.sprites():
-        t.render(screen)
+        #t.render(screen)
         t.update(world_offset_direction,world_offset_speed)
         t.tower_shot(playerGroup.sprite.position,playerGroup.sprite.image.get_size()[0])
     playerGroup.sprite.update(world_offset_direction)    
